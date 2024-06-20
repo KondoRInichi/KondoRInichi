@@ -1,3 +1,5 @@
+<link rel="readme.css">
+
 # Hi👋, I'm Kondo <sub> *\~developer in 🇯🇵\~*</sub>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=KondoRinichi&label=Profile%20views&color=0e75b6&style=flat&logo-size=amd" alt="hoge" /> </p>
