@@ -18,7 +18,7 @@
 <summary>
 <h3>🌱Want to try and train these skills</h3>
 </summary>
-<p align="center">
+<p class="skill_content" align="center">
 	<a href="https://skillicons.dev">
   		<img src="https://skillicons.dev/icons?i=angular,aws,docker,azure,react,vue,fastapi,python,go&perline=3" />
 	</a>
