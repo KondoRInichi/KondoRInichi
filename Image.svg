@@ -1,6 +1,5 @@
-<svg fill="none" viewBox="0 0 400 200" width="800" height="400" xmlns="C:/Users/kondo-r/Downloads/flat-svg-designs-icon-go2moon_1.svg">
+<svg fill="none" viewBox="0 0 400 200" width="800" height="400" xmlns="freeSpace.svg">
 	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				@keyframes rotate {
 					0% {
@@ -85,6 +84,5 @@
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
 				<p>Click to see the source</p>
 			</div>
-		</div>
 	</foreignObject>
 </svg>
