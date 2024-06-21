@@ -8,9 +8,9 @@
 
 ## Index
 
-- [Skill](#Skill)
-- [GitInfo](#GitInfo)
-- [Contact](#Contact)
+- [Skill](#skill)
+- [GitInfo](#gitinfo)
+- [Contact](#contact)
 
 <!-- スキル -->
 
@@ -49,10 +49,16 @@
 
 <!-- git情報 -->
 ## GitInfo
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoge&show_icons=true&locale=en&layout=compact" alt="t-keshi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KondoRinichi&show_icons=true&locale=ja" alt="hoge" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KondoRinichi&" alt="hoge" /></p>
-
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KondoRinichi&count_private=true&theme=aura&show_icons=true&locale=ja"/>
+</a>
+<a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KondoRinichi&count_private=true&theme=aura&show_icons=true&locale=ja" />
+</a>
+<a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KondoRinichi&count_private=true&theme=aura&show_icons=true&locale=ja&layout=compact"  />
+</a>
+<br>
 <!-- コンタクト -->
 
 ## Contact
