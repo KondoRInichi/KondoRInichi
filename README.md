@@ -66,6 +66,7 @@
 <!-- コンタクト -->
 
 ## Contact
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/%E3%82%8A%E3%82%93%E3%82%8A%E3%82%93?link=https%3A%2F%2Fx.com%2Fharu4sis%3Flang%3Dja)
-
+<a href="https://x.com/kimetsu_off?lang=ja">
+<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/%E3%82%8A%E3%82%93%E3%82%8A%E3%82%93">
+</a>
 
