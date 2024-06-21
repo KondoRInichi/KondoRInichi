@@ -49,16 +49,20 @@
 
 <!-- git情報 -->
 ## GitInfo
+<div align="center">
+  <div style="display: flex;">
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KondoRinichi&count_private=true&theme=aura&show_icons=true&locale=ja"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=KondoRinichi&count_private=true&theme=aura&show_icons=true&locale=ja"/>
 </a>
 <a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KondoRinichi&count_private=true&theme=aura&show_icons=true&locale=ja" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=KondoRinichi&count_private=true&theme=aura&show_icons=true&locale=ja" />
 </a>
 <a>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KondoRinichi&count_private=true&theme=aura&show_icons=true&locale=ja&layout=compact"  />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KondoRinichi&count_private=true&theme=aura&show_icons=true&locale=ja&layout=donut-vertical"  />
 </a>
-<br>
+  </div>
+</div>
+<br><br><br>
 <!-- コンタクト -->
 
 ## Contact
