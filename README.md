@@ -68,4 +68,5 @@
 ## Contact
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/haru4sis)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/%E9%AC%BC%E6%BB%85?link=https%3A%2F%2Fx.com%2Fkimetsu_off%3Flang%3Dja)
 
