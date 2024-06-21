@@ -55,10 +55,10 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=KondoRinichi&count_private=true&theme=aura&show_icons=true&locale=ja"/>
 </a>
 <a>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=KondoRinichi&count_private=true&theme=aura&show_icons=true&locale=ja" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=KondoRinichi&theme=aura&show_icons=true&locale=ja" />
 </a>
 <a>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KondoRinichi&count_private=true&theme=aura&show_icons=true&locale=ja&layout=donut-vertical"  />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KondoRinichi&theme=aura&show_icons=true&locale=ja&layout=donut-vertical"  />
 </a>
   </div>
 </div>
@@ -67,4 +67,5 @@
 
 ## Contact
 
-<p align="left"> <a href="https://twitter.com/hoge" target="blank"><img src="https://img.shields.io/twitter/follow/自分のアカウント名?logo=twitter&style=for-the-badge" /></a> </p>
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/haru4sis)
+
