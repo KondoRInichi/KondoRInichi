@@ -1,4 +1,4 @@
-<link rel="~/readme.css">
+
 
 # Hi👋, I'm Kondo <sub> *\~developer in 🇯🇵\~*</sub>
 
